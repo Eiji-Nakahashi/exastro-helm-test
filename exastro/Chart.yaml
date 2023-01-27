@@ -41,12 +41,12 @@ keywords:
 - exastro
 - exastro-platform
 - exastro-it-automation
-home: https://exastro-suite.github.io/
+home: https://Eiji-Nakahashi.github.io/
 icon: https://exastro-suite.github.io/docs/asset/logo/exastro/Exastro-logomark2-rgb.svg
 sources:
-- https://github.com/exastro-suite/exastro-helm
-- https://github.com/exastro-suite/exastro-it-automation
-- https://github.com/exastro-suite/exastro-platform
+- https://github.com/Eiji-Nakahashi/exastro-helm-test
+- https://github.com/Eiji-Nakahashi/exastro-it-automation
+- https://github.com/Eiji-Nakahashi/exastro-platform
 dependencies:
   - name: exastro-it-automation
     version: 1.0.7-beta1
